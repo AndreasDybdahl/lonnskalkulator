@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lonnskalkulator/static/css/main.35fd3494.chunk.css",
+    "main.js": "/lonnskalkulator/static/js/main.7d0b1f8a.chunk.js",
+    "main.js.map": "/lonnskalkulator/static/js/main.7d0b1f8a.chunk.js.map",
+    "runtime-main.js": "/lonnskalkulator/static/js/runtime-main.67a40798.js",
+    "runtime-main.js.map": "/lonnskalkulator/static/js/runtime-main.67a40798.js.map",
+    "static/js/2.ce29cad1.chunk.js": "/lonnskalkulator/static/js/2.ce29cad1.chunk.js",
+    "static/js/2.ce29cad1.chunk.js.map": "/lonnskalkulator/static/js/2.ce29cad1.chunk.js.map",
+    "static/js/3.65af4c06.chunk.js": "/lonnskalkulator/static/js/3.65af4c06.chunk.js",
+    "static/js/3.65af4c06.chunk.js.map": "/lonnskalkulator/static/js/3.65af4c06.chunk.js.map",
+    "index.html": "/lonnskalkulator/index.html",
+    "static/css/main.35fd3494.chunk.css.map": "/lonnskalkulator/static/css/main.35fd3494.chunk.css.map",
+    "static/js/2.ce29cad1.chunk.js.LICENSE.txt": "/lonnskalkulator/static/js/2.ce29cad1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67a40798.js",
+    "static/js/2.ce29cad1.chunk.js",
+    "static/css/main.35fd3494.chunk.css",
+    "static/js/main.7d0b1f8a.chunk.js"
+  ]
+}
