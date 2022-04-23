@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lonnskalkulator/static/css/main.02c57449.chunk.css",
-    "main.js": "/lonnskalkulator/static/js/main.adb8dbac.chunk.js",
-    "main.js.map": "/lonnskalkulator/static/js/main.adb8dbac.chunk.js.map",
+    "main.js": "/lonnskalkulator/static/js/main.c757ece9.chunk.js",
+    "main.js.map": "/lonnskalkulator/static/js/main.c757ece9.chunk.js.map",
     "runtime-main.js": "/lonnskalkulator/static/js/runtime-main.c36cc004.js",
     "runtime-main.js.map": "/lonnskalkulator/static/js/runtime-main.c36cc004.js.map",
     "static/js/2.d6ad7b27.chunk.js": "/lonnskalkulator/static/js/2.d6ad7b27.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c36cc004.js",
     "static/js/2.d6ad7b27.chunk.js",
     "static/css/main.02c57449.chunk.css",
-    "static/js/main.adb8dbac.chunk.js"
+    "static/js/main.c757ece9.chunk.js"
   ]
 }
