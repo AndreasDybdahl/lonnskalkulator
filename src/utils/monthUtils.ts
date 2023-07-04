@@ -1,4 +1,4 @@
-import { skattetrekk, Tabell } from '../skattetabell/2022';
+import { skattetrekk, Tabell } from '../skattetabell/2023';
 import { Month } from '../types/Month';
 import { MonthState } from '../types/MonthState';
 

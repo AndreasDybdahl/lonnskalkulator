@@ -4,7 +4,7 @@ import { Select } from './components/select/Select';
 import { getHoursInMonth } from './utils/dateUtils';
 import { Month } from './types/Month';
 import Input from './components/input/Input';
-import { Tabell, tableNames } from './skattetabell/2022';
+import { Tabell, tableNames } from './skattetabell/2023';
 import { YearDisplay } from './components/year-display/YearDisplay';
 import { monthStateBuilder } from './utils/monthUtils';
 import { useURLState } from './hooks/useURLState';

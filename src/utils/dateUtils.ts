@@ -3,7 +3,7 @@ import DateHolidays from 'date-holidays';
 import { DateTime } from 'luxon';
 
 const holidays = new DateHolidays('no');
-const currentYear = 2022;
+const currentYear = 2023;
 const helligdager = holidays
     .getHolidays(currentYear)
     .filter((holiday) => holiday.type !== 'observance')
